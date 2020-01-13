@@ -1,14 +1,11 @@
 [中文](https://github.com/hugetiny/FreeVPN/blob/master/READMECN.md)
 
-<h1 align="center">Fight for Free</h1>
+<h1 align="center">Protect yourself</h1>
 
 ![We are born to be free](./fightforfree.jpeg)
 
-## [Negibox](https://negibox.com) is recommanded as a download tool
+## [Negibox](https://github.com/hugetiny/negibox) is recommanded as a download tool
 
-
-### Clean DNS
-1.1.1.1,9.9.9.9
 
 ### Windows Proxy
 Psiphon
@@ -109,8 +106,8 @@ Shadowsocks(Server Required)
 
 
 ## Free Shadowsocks & V2ray server
-[WebSiteUseful](https://github.com/loremwalker/WebSiteUseful/blob/master/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/SS%26%26SSR%26v2ray%E5%88%86%E4%BA%AB.md),
-[Freess](https://github.com/max2max/freess)
+[ssrshare](https://www.ssrshare.com),
+[freess](https://github.com/max2max/freess)
 
 
 

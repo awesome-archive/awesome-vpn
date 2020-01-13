@@ -4,13 +4,7 @@
 
 ![We are born to be free](./fightforfree.jpeg)
 
-## 部分可以下载但是下载速度奇慢的推荐用迅雷或者[Negibox](https://negibox.com)下载
-
-### 无污染的DNS
-1.1.1.1,9.9.9.9
-
-### 推荐最稳定的免费开源代理(ipv6有小部分GFW没有封，)
-[XX-Net](https://github.com/XX-net/XX-Net)
+## 部分可以下载但是下载速度奇慢的推荐用迅雷或者[Negibox](https://github.com/hugetiny/negibox)下载
 
 ### Windows代理
 赛风
@@ -112,7 +106,8 @@ Shadowsocks(需要服务器)
 [Github](https://github.com/shadowsocks/shadowsocks-qt5/releases/download/v3.0.1/Shadowsocks-Qt5-3.0.1-x86_64.AppImage)
 
 ## Shadowsocks & V2ray 免费账号分享
-[WebSiteUseful](https://github.com/loremwalker/WebSiteUseful/blob/master/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/SS%26%26SSR%26v2ray%E5%88%86%E4%BA%AB.md),
+[ssrshare](https://www.ssrshare.com)
+
 [freess](https://github.com/max2max/freess)
 
 
